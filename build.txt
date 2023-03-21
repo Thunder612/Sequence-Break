@@ -1,0 +1,3 @@
+displayName = Sequence Break Gray
+author = Thunder612
+version = 0.1
